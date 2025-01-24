@@ -1,0 +1,20 @@
+{
+  "name": "construction-report-server",
+  "version": "1.0.0",
+  "description": "Construction Report Management System: A web-based application designed to streamline the process of creating, managing, and tracking construction reports.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/9731080/construction-report-server.git"
+  },
+  "keywords": [
+    "cd",
+    "construction-report-server"
+  ],
+  "author": "Abhishek Sudi",
+  "license": "ISC"
+}
